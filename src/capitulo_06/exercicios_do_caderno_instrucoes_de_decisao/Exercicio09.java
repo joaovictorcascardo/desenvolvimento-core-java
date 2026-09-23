@@ -1,13 +1,13 @@
-package capitulo_06.exercicios_do_caderno;
+package capitulo_06.exercicios_do_caderno_instrucoes_de_decisao;
 
 import java.util.Scanner;
 
-public class Exercicio10 {
+public class Exercicio09 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
         int n = sc.nextInt();
 
-        System.out.println(n != 10);
+        System.out.println(n == 0);
     }
 }

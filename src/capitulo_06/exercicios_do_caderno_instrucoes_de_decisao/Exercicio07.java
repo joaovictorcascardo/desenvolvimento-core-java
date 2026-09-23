@@ -1,8 +1,8 @@
-package capitulo_06.exercicios_do_caderno;
+package capitulo_06.exercicios_do_caderno_instrucoes_de_decisao;
 
 import java.util.Scanner;
 
-public class Exercicio14 {
+public class Exercicio07 {
     public static void main(String[] args) {
         Scanner sc = new Scanner(System.in);
 
