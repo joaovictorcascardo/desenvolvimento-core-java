@@ -1,4 +1,4 @@
-package capitulo_06.exercicios_do_caderno_instrucoes_de_decisao;
+package capitulo_06.decisao.caderno;
 
 import java.util.Scanner;
 
