@@ -1,0 +1,12 @@
+package desafio;
+
+import java.util.Scanner;
+
+public class CalculoExponencial {
+    public static void main(String[] args) {
+        Scanner sc = new Scanner(System.in);
+        int base = sc.nextInt();
+        int expoente = sc.nextInt();
+    }
+}
+
