@@ -1,10 +1,10 @@
 # Desenvolvimento Core Java
 
-Todos os exercícios que fiz no treinamento de Java da Foursys, do básico da linguagem até orientação a objetos. São 240 exercícios separados por assunto, na ordem em que estudei.
+Todos os exercícios que fiz no treinamento de Java da Foursys, do básico da linguagem até orientação a objetos. Está separado por assunto, na ordem em que estudei.
 
 ## Conteúdo
 
-| Pasta | Assunto | Exercícios |
+| Pasta | Assunto | Arquivos |
 | --- | --- | --- |
 | `capitulo_06/operadores_casting` | Operadores e conversão de tipos | 20 |
 | `capitulo_06/decisao` | `if`, `else` e `switch` | 41 |
@@ -18,7 +18,7 @@ Todos os exercícios que fiz no treinamento de Java da Foursys, do básico da li
 | `modulo2/capitulo_01` | Classes e objetos | 20 |
 | `modulo2/encapsulamento` | Encapsulamento, getters, setters e validações | 47 |
 | `extras_poo` | Exercício extra de POO | 2 |
-| `exercicios_proprios` | Exercícios que montei pra treinar `for`, regex e wrappers | 2 |
+| `exercicios_proprios` | Exercícios extras de `for`, regex e wrappers | 2 |
 | `desafio` | Jogo Stop, cálculo exponencial, deslocamento circular e baralho de truco | 5 |
 | `simulado` | Simulado final do módulo 1 | 9 |
 
