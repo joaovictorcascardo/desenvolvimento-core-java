@@ -1,4 +1,4 @@
-package modulo2.encapsulamento.exercico10;
+package modulo2.encapsulamento.exercicio10;
 
 public class Main {
     public static void main(String[] args) {
